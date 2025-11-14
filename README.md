@@ -38,7 +38,7 @@ IESCP is a platform designed to streamline the collaboration between sponsors an
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/Nv1023/IESCP.git
+   git clone https://github.com/Vishva2000/IESCP.git
    cd IESCP
 
    ```
